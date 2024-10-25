@@ -2,7 +2,7 @@ const pizzas = [
   {
     id: 1,
     nombre: "pizza de Muzzarella",
-    precio: 800,
+    precio: 500,
     ingredientes: ["Muzzarella", "Tomate", "Aceitunas"],
   },
 
